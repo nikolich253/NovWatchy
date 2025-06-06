@@ -10,4 +10,5 @@ watchySettings settings {
     .ntpServer = NTP_SERVER,
     .gmtOffset = GMT_OFFSET_SEC,
     .vibrateOClock = true,
+    .darkMode = DARK_MODE,
 };
